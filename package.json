@@ -1,0 +1,16 @@
+{
+  "name": "postcss-selector-parser-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.4.47",
+    "postcss-selector-parser": "^7.0.0"
+  }
+}
